@@ -4,16 +4,16 @@ sidebar_position: 1
 
 # Datathon MedIn — Heart Disease Prediction
 
-Bem-vindo ao **Datathon MedIn**, um desafio técnico que convida membros da Liga de Engenharia Biomédica MedIn a desenvolver modelos preditivos capazes de identificar pacientes com doença cardíaca.
+Bem-vindo ao Datathon MedIn, um desafio técnico que convida membros da Liga de Engenharia Biomédica MedIn a desenvolver modelos preditivos capazes de identificar pacientes com doença cardíaca.
 
 ## Objetivo
 
-Desenvolver modelos de classificação binária que, usando apenas o dataset oficial fornecido, consigam identificar corretamente pacientes com doença cardíaca (**num = 1**), maximizando **recall** nessa classe — ou seja, priorizar a detecção de casos positivos.
+Desenvolver modelos de classificação binária que, usando apenas o dataset oficial fornecido, consigam identificar corretamente pacientes com doença cardíaca (num = 1), maximizando recall nessa classe — ou seja, priorizar a detecção de casos positivos.
 
 ## Público-alvo
 
-- **Destinado a membros da Liga MedIn**
-- Participação individual ou em duplas
+- Destinado a membros da Liga MedIn
+- Participação individual
 - Voltado a estudantes e profissionais interessados em machine learning aplicado à saúde
 
 ## Dataset
@@ -48,7 +48,7 @@ Desenvolver modelos de classificação binária que, usando apenas o dataset ofi
 ## Como Começar
 
 1. Baixe os arquivos `train.csv`, `test.csv` e `sample_submission.csv`
-2. Treine seu modelo **apenas** com `train.csv`
+2. Treine seu modelo apenas com `train.csv`
 3. Gere previsões binárias (0/1) para `test.csv`
 4. Submeta no formato: `id,num`
 5. Documente seeds e decisões técnicas

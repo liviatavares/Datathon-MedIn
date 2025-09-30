@@ -4,7 +4,6 @@ Este documento serve como template para a documentação da sua submissão no Da
 
 ## Template README.md
 
-```markdown
 # Heart Disease Prediction
 
 ## Resumo da Solução
